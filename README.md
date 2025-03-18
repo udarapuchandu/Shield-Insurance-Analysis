@@ -1,22 +1,49 @@
-🚀 # Shield Insurance Analysis – Power BI Dashboard
-📊 ## Project Overview
-This project analyzes Shield Insurance's key business metrics, including total revenue, customer growth, sales mode preferences, and age group insights. Using Power BI and DAX, the dashboard provides data-driven insights for strategic decision-making in the insurance sector.
+# 🚀 Shield Insurance Analysis – Power BI Dashboard  
 
-🔍 ## Key Features
-Revenue & Customer Growth: Analyzed ₹989M total revenue and 27K customers, identifying major revenue contributors.
-Sales Mode Analysis: Offline agents contribute 55.67% of total revenue, but online sales show a rising trend.
-Age Group Trends: The 41-50 age group generates the highest revenue, while younger customers show evolving preferences.
-Policy & Settlement Analysis: Estimated settlements peak at ₹151.57M for the 65+ age group, impacting risk assessments.
+## 📌 Project Overview  
+Shield Insurance Analysis is a **Power BI dashboard** designed to explore key business metrics such as **total revenue, customer growth, sales mode preferences, and age group insights**.  
+Using **Power BI and DAX**, this dashboard provides data-driven insights to support strategic decision-making in the insurance sector.  
 
-📈 ## Insights & Business Impact
-City-wise Trends: Mumbai leads in revenue, while Hyderabad shows unexpected growth.
-Sales Mode Shifts: Digital sales are increasing, but agents remain key players in specific demographics.
-Customer Segmentation: Understanding policy preferences by age group helps in targeted marketing and risk assessment.
+## 📊 Key Features  
 
-🛠️ ## Tools Used
-Power BI – Data visualization & interactive dashboards
-DAX – Custom measures & calculations
-Excel – Data cleaning & transformation
+### 1️⃣ Revenue & Customer Growth  
+- **Total Revenue:** ₹989M  
+- **Customer Growth:** 27K+ new customers  
+- Identifies major revenue contributors and customer trends.  
 
-📢 ## Conclusion
-The Shield Insurance Analysis dashboard provides actionable insights into customer behavior, policy sales, and revenue trends. The data-driven approach helps optimize business strategies, balancing online and offline sales for future growth.
+### 2️⃣ Sales Mode Analysis  
+- **Offline Agents Contribution:** **55.67% of total revenue**  
+- **Online Sales Trend:** Growing but not fully replacing traditional agents.  
+- Highlights shifts in customer purchasing preferences.  
+
+### 3️⃣ Age Group Trends  
+- **Highest Revenue Contributors:** **41-50 age group**  
+- **Emerging Trend:** Younger customers show changing preferences.  
+- Helps in identifying targeted marketing and policy strategies.  
+
+### 4️⃣ Policy & Settlement Analysis  
+- **Estimated Settlements (65+ age group):** ₹151.57M  
+- **Claims Behavior:** Older customers file more claims, affecting risk assessments.  
+- Essential for understanding policy risk management.  
+
+## 📈 Insights & Business Impact  
+
+### 📍 City-wise Trends  
+- **Mumbai** contributes the highest revenue.  
+- **Hyderabad** shows unexpected growth.  
+
+### 🔄 Sales Mode Shifts  
+- **Digital sales** are increasing but **agents remain key players** in specific demographics.  
+
+### 🎯 Customer Segmentation  
+- **Policy preferences by age group** help in targeted marketing and risk assessment.  
+
+## 🛠️ Tools Used  
+- **Power BI** – Data visualization & interactive dashboards  
+- **DAX** – Custom measures & calculations  
+- **Excel** – Data cleaning & transformation  
+
+## 📢 Conclusion  
+The **Shield Insurance Analysis dashboard** provides **actionable insights** into customer behavior, policy sales, and revenue trends.  
+A **data-driven approach** helps **optimize business strategies**, balancing **online and offline sales** for future growth.  
+
